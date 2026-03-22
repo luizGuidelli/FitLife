@@ -1,6 +1,6 @@
 # Backlog (FitLife) 
 
-##  Alta Prioridade (MVP)
+## Prioridade Alta
 1. Cadastro de usuário  
 2. Login  
 3. Recuperação de senha  
@@ -17,7 +17,7 @@
 14. Dashboard de progresso  
 15. Histórico de treinos  
 
-##  Média Prioridade
+## Prioridade Media
 16. Upload de foto  
 17. Gráfico de evolução  
 18. Comentários no treino  
