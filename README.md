@@ -9,14 +9,9 @@ Auxiliar usuários a organizar seus treinos, acompanhar evolução e manter disc
 - Cadastro e login de usuários
 - Criação e edição de treinos
 - Controle de exercícios (séries e repetições)
-- Acompanhamento do progresso e histórico
+- Acompanhamento da evolucao e histórico
 - Dashboard de desempenho
 - Notificações, metas e ranking
-
-##  Tecnologias
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js
-- Banco de dados: MongoDB
 
 ##  Responsável
 - Luiz Gustavo Guidelli (PO, Scrum Master e Desenvolvedor)
