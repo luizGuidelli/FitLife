@@ -1,4 +1,4 @@
-#  FitLife
+#  FitApp
 
 Sistema de gerenciamento de treinos e acompanhamento fitness para usuários de academia.
 

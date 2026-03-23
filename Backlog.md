@@ -1,4 +1,4 @@
-# Backlog (FitLife) 
+# Backlog (FitApp) 
 
 ## Prioridade Alta
 1. Cadastro de usuário  
