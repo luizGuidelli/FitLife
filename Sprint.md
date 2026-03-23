@@ -1,10 +1,10 @@
-# 🗓️ Planejamento de Sprints
+# Planejamento de Sprints
 
 ## Luiz Gustavo Guidelli (Scrum Master)
 
 ---
 
-## 🚀 Sprint 1 (01/04 - 14/04)
+##  Sprint 1 (01/04 - 14/04)
 - Cadastro de usuário  
 - Login  
 - Recuperação de senha  
@@ -13,7 +13,7 @@
 - Criar treino  
 - Interface inicial  
 
-## 🚀 Sprint 2 (15/04 - 28/04)
+##  Sprint 2 (15/04 - 28/04)
 - Editar treino  
 - Excluir treino  
 - Adicionar exercícios  
@@ -22,7 +22,7 @@
 - Marcar treino como concluído  
 - Listar treinos  
 
-## 🚀 Sprint 3 (29/04 - 12/05)
+## Sprint 3 (29/04 - 12/05)
 - Dashboard de progresso  
 - Histórico de treinos  
 - Upload de foto  
@@ -30,7 +30,7 @@
 - Comentários no treino  
 - Notificações  
 
-## 🚀 Sprint 4 (13/05 - 26/05)
+## Sprint 4 (13/05 - 26/05)
 - Filtro de treinos  
 - Sistema de metas  
 - Lembrete de treino  
